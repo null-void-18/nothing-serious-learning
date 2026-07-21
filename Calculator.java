@@ -1,5 +1,5 @@
 public class Calculator {
     private static void main(String args[]) {
-        int arr[] = new int[4];
+        int arr[] = new int[3];
     }
 }
