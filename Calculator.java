@@ -7,5 +7,7 @@ public class Calculator {
         //Runner up is Argentina
         //Third place is England
         //Fourth place is France
+
+        //Germany lost to Paraguay
     }
 }
